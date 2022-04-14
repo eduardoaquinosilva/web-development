@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+/* General */
+body {
+	background-color: white;
+	color: rgba(0, 0, 0, 1); 
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+p#paragrafo-cappuccino {
+	text-indent: 25px;
+}
+
+/* Formatação Menu */
+div#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+div#menu {
+	text-align: center;
+	font-size: 35px;
+}
+
+div#menu li {
+	font-size: 35px;
+	margin: 20px;
+}
+
+/* Formatação Imagens */
+div#images {
+	text-align: center;
+}
+
+/* Return Links */
+div#return-links {
+	text-align: center;
+}
+
+/* Fomatação Descrição/Custo */
+div#conteudo {
+	width: 480px;
+	margin: 0px auto auto auto;
+}
+
+/* Cabeçalho */
+header#cabecalho-paginas {
+	border-bottom: 2px rgba(0, 0, 0, .1) solid;
+	height: 70px;
+}

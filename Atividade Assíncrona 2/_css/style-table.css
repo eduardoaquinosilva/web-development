@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+table {
+	margin: 30px auto 0px auto;
+}
+
+table caption {
+	font-size: 19pt;
+	margin-bottom: 15px;
+}
